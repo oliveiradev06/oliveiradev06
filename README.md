@@ -14,7 +14,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://github.com/user-attachments/assets/753307b4-b034-4842-9dbd-7ec67948d5ec"/>
+
 
 
 
