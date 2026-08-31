@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=180&section=header&text=Jo%C3%A3o%20Pedro%20Oliveira&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20An%C3%A1lise%20de%20Dados&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=180&section=header&text=Jo%C3%A3o%20Pedro%20Oliveira&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Engenharia%20de%20IA&descAlignY=56&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Transformando+dados+em+decis%C3%B5es;Python+%7C+SQL+%7C+Pandas+%7C+Streamlit;Explorando+Engenharia+de+IA;Em+busca+da+primeira+oportunidade+de+est%C3%A1gio" alt="Transformando dados em decisões" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Foco+em+Engenharia+de+IA;Machine+Learning+e+Ci%C3%AAncia+de+Dados;Python+%7C+SQL+%7C+Pandas;Da+an%C3%A1lise+dos+dados+ao+modelo" alt="Foco em Engenharia de IA" />
 
 <br/>
 
 
 <img src="https://img.shields.io/badge/USCS-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20(2025%E2%80%932028)-1F6FEB?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Foco-Engenharia%20de%20IA-8957E5?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/S%C3%A3o%20Caetano%20do%20Sul%20%E2%80%93%20SP-161B22?style=flat-square&logo=googlemaps&logoColor=EA4335" />
-<img src="https://img.shields.io/badge/Aberto%20a-Est%C3%A1gio%20em%20Dados-3FB950?style=flat-square&logo=handshake&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=oliveiradev06&label=Visitas&color=1F6FEB&style=flat-square" />
 
 </div>
 
@@ -18,14 +17,14 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de **Ciência da Computação** na USCS e estou construindo minha carreira em **Análise de Dados**.
-Gosto da parte que vem *depois* do código: pegar um conjunto de dados bagunçado, limpar, entender o que ele está dizendo e transformar isso em algo que ajude alguém a decidir.
+Sou estudante de **Ciência da Computação** na USCS, com foco em **Inteligência Artificial**.
+Cheguei na IA pelo caminho dos dados — e é essa base que uso hoje: antes de treinar qualquer modelo, é preciso entender, limpar e preparar o que vai entrar nele.
 
 - 🎓 Cursando **Ciência da Computação** — USCS, São Caetano do Sul (2025 – 2028)
-- 📊 Trabalho com **Python, SQL e Excel** para tratamento, análise e visualização de dados
-- 🤖 Estudando **Engenharia de IA** e como aplicar modelos em problemas reais
-- 🛠️ Meus projetos vão da coleta de dados até o dashboard — não só o notebook
-- 🚀 Buscando **estágio** em Dados, BI ou Desenvolvimento
+- 🤖 Foco em **Engenharia de IA**: machine learning e aplicação de modelos em problemas reais
+- 📊 Base em **Análise de Dados** com Python, SQL e Excel — tratamento, análise e visualização
+- 🛠️ Gosto de projeto de ponta a ponta: do dado bruto ao resultado apresentável
+- 💼 Estagiando e colocando em prática o que estudo
 - 📫 Fale comigo: **oliveiradev06@gmail.com**
 
 <br/>
@@ -116,7 +115,7 @@ Resolução de um case de análise de dados do setor financeiro, do entendimento
 </tr>
 </table>
 
-> 🚧 **Em desenvolvimento:** detecção de fraude em cartão de crédito (classificação com dados desbalanceados) e portfólio pessoal em HTML/CSS.
+> 🚧 **Em desenvolvimento:** modelo de **machine learning para detecção de fraude em cartão de crédito** — classificação com dados fortemente desbalanceados. Também um portfólio pessoal em HTML/CSS.
 
 <br/>
 
@@ -125,14 +124,14 @@ Resolução de um case de análise de dados do setor financeiro, do entendimento
 <div align="center">
 <table>
 <tr>
+<td align="center" width="33%">🤖<br/><b>Engenharia de IA</b></td>
+<td align="center" width="33%">🧠<br/><b>Machine Learning</b></td>
 <td align="center" width="33%">📊<br/><b>Análise de Dados</b></td>
-<td align="center" width="33%">🗄️<br/><b>Banco de Dados e SQL</b></td>
-<td align="center" width="33%">🐍<br/><b>Automação com Python</b></td>
 </tr>
 <tr>
-<td align="center">🤖<br/><b>Engenharia de IA</b></td>
-<td align="center">📈<br/><b>Business Intelligence</b></td>
-<td align="center">📉<br/><b>Visualização de Dados</b></td>
+<td align="center">🐍<br/><b>Automação com Python</b></td>
+<td align="center">🗄️<br/><b>Banco de Dados e SQL</b></td>
+<td align="center">📈<br/><b>BI e Visualização</b></td>
 </tr>
 </table>
 </div>
@@ -166,7 +165,7 @@ Resolução de um case de análise de dados do setor financeiro, do entendimento
 
 <br/><br/>
 
-*Obrigado por visitar meu perfil! Estou sempre aberto a feedback, troca de ideia e novas oportunidades.* ✨
+*Obrigado por visitar meu perfil! Sempre aberto a feedback e troca de ideia sobre IA e dados.* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=110&section=footer" width="100%" />
 
