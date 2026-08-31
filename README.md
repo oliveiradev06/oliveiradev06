@@ -1,72 +1,173 @@
+<div align="center">
 
-<h1 align="center">João Pedro Oliveira</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=180&section=header&text=Jo%C3%A3o%20Pedro%20Oliveira&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20An%C3%A1lise%20de%20Dados&descAlignY=56&descSize=18" width="100%" />
 
-<p align="center">
-Estudante de Ciência da Computação | Análise de Dados <br/>
-USCS (2025 – 2028) • São Caetano do Sul, SP
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Transformando+dados+em+decis%C3%B5es;Python+%7C+SQL+%7C+Pandas+%7C+Streamlit;Explorando+Engenharia+de+IA;Em+busca+da+primeira+oportunidade+de+est%C3%A1gio" alt="Transformando dados em decisões" />
 
 <br/>
 
-<h2 align="center">👋 Sobre mim</h2>
 
-<p align="center">
-Sou estudante de Ciência da Computação com interesse em <b>Análise de Dados</b> e <b>Desenvolvimento</b>.  
-Tenho experiência prática com organização, tratamento e análise de dados utilizando Python, SQL e Excel,  
-além de projetos acadêmicos focados em dados e automação.
-</p>
+<img src="https://img.shields.io/badge/USCS-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20(2025%E2%80%932028)-1F6FEB?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/S%C3%A3o%20Caetano%20do%20Sul%20%E2%80%93%20SP-161B22?style=flat-square&logo=googlemaps&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/Aberto%20a-Est%C3%A1gio%20em%20Dados-3FB950?style=flat-square&logo=handshake&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=oliveiradev06&label=Visitas&color=1F6FEB&style=flat-square" />
 
-<p align="center">
-Busco oportunidades de <b>estágio</b> para aplicar meus conhecimentos, aprender com times experientes  
-e evoluir profissionalmente na área de tecnologia e dados.
-</p>
+</div>
 
 <br/>
 
-<h2 align="center">🚀 Principais Skills</h2>
+## 👋 Sobre mim
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+Sou estudante de **Ciência da Computação** na USCS e estou construindo minha carreira em **Análise de Dados**.
+Gosto da parte que vem *depois* do código: pegar um conjunto de dados bagunçado, limpar, entender o que ele está dizendo e transformar isso em algo que ajude alguém a decidir.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+- 🎓 Cursando **Ciência da Computação** — USCS, São Caetano do Sul (2025 – 2028)
+- 📊 Trabalho com **Python, SQL e Excel** para tratamento, análise e visualização de dados
+- 🤖 Estudando **Engenharia de IA** e como aplicar modelos em problemas reais
+- 🛠️ Meus projetos vão da coleta de dados até o dashboard — não só o notebook
+- 🚀 Buscando **estágio** em Dados, BI ou Desenvolvimento
+- 📫 Fale comigo: **oliveiradev06@gmail.com**
 
 <br/>
 
-<h2 align="center">📊 Áreas de Interesse</h2>
+## 🛠️ Tecnologias
 
-<p align="center">
-• Análise de Dados<br/>
-• Banco de Dados e SQL<br/>
-• Automação com Python<br/>
-• Business Intelligence e Visualização de Dados
-</p>
+<div align="center">
+
+**Linguagens**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Dados & Análise**
+
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+**Ferramentas**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
 
 <br/>
 
-<h2 align="center">🌐 Contato</h2>
+## 📌 Projetos em destaque
 
-<p align="center">
-<a href="https://www.linkedin.com/in/joão-pedro-guilherme-8bab09343">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Análise de Salários na Área de Dados
+
+Estudo de salários em tecnologia por **senioridade, tipo de contrato e modalidade de trabalho**. Inclui limpeza, tratamento e visualização dos dados.
+
+`Python` · `Pandas` · `Seaborn` · `Matplotlib` · `Plotly`
+
+**[Ver projeto →](https://github.com/oliveiradev06/-Analise-de-Salarios-na-Area-de-Dados)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌤️ Consulta de Clima
+
+Aplicação web que consulta o clima de qualquer cidade consumindo uma **API externa**, com interface interativa em Streamlit.
+
+`Python` · `Streamlit` · `API REST`
+
+**[Ver projeto →](https://github.com/oliveiradev06/consulta-clima-python-streamlit-)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦠 Dados COVID-19 &nbsp;<img src="https://img.shields.io/badge/em%20andamento-D29922?style=flat-square" />
+
+Análise exploratória da evolução da pandemia no Brasil: tratamento de séries temporais e visualização de tendências.
+
+`Python` · `Pandas` · `Jupyter`
+
+**[Ver projeto →](https://github.com/oliveiradev06/dados-covid19)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Case Itaú
+
+Resolução de um case de análise de dados do setor financeiro, do entendimento do problema à conclusão apresentada.
+
+`Python` · `Pandas` · `Jupyter`
+
+**[Ver projeto →](https://github.com/oliveiradev06/case-itau)**
+
+</td>
+</tr>
+</table>
+
+> 🚧 **Em desenvolvimento:** detecção de fraude em cartão de crédito (classificação com dados desbalanceados) e portfólio pessoal em HTML/CSS.
+
+<br/>
+
+## 🎯 Áreas de interesse
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">📊<br/><b>Análise de Dados</b></td>
+<td align="center" width="33%">🗄️<br/><b>Banco de Dados e SQL</b></td>
+<td align="center" width="33%">🐍<br/><b>Automação com Python</b></td>
+</tr>
+<tr>
+<td align="center">🤖<br/><b>Engenharia de IA</b></td>
+<td align="center">📈<br/><b>Business Intelligence</b></td>
+<td align="center">📉<br/><b>Visualização de Dados</b></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## 📈 GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oliveiradev06&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oliveiradev06&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-guilherme-8bab09343">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:oliveiradev06@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
+<a href="https://github.com/oliveiradev06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+<br/><br/>
 
-✨ _Obrigado por visitar meu perfil!_
+*Obrigado por visitar meu perfil! Estou sempre aberto a feedback, troca de ideia e novas oportunidades.* ✨
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=110&section=footer" width="100%" />
 
-
-
+</div>
